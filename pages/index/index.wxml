@@ -1,7 +1,56 @@
 <!--index.wxml-->
-<navigation-bar title="Weixin" back="{{false}}" color="black" background="#FFF"></navigation-bar>
+<navigation-bar title="智慧校园" back="{{false}}" color="black" background="#FFF"></navigation-bar>
 <scroll-view class="scrollarea" scroll-y type="list">
-  <view class="container">
-    哇晒666
+
+  <view class="ubye">
+    <view class="W320">
+
+      <view class="box1">
+        <view class="box1_tu1"><image src="/images/tabbar/01.png" mode="aspectFit"></image></view>
+      </view>
+
+      <view class="box2">
+        <view class="box2_tu2">
+          <view class=""><image src="/images/tabbar/school.png" mode="aspectFit"></image></view>
+          <view class=""><image src="/images/tabbar/school.png" mode="aspectFit"></image></view>
+          <view class=""><image src="/images/tabbar/school.png" mode="aspectFit"></image></view>
+          <view class=""><image src="/images/tabbar/school.png" mode="aspectFit"></image></view>
+          <view class=""><image src="/images/tabbar/school.png" mode="aspectFit"></image></view>
+        </view>
+      </view>
+      
+      <view class="box3">
+        <view class="">      </view>
+        <view class="">      </view>
+      </view>
+
+      <view class="box4"><image src="" mode="aspectFit"></image>关于系统上线运行的时间</view>
+
+      <view class="box5"><image src="" mode="aspectFit"></image></view>
+
+      <view class="box6"><view class="">推荐应用</view><view class="">根据您最近浏览和办理应用为您推荐</view></view>
+      
+      <view class="box7">
+        <view class="">
+          <view class="">      </view>
+          <view class="">      </view>
+        </view>
+      </view>
+    </view>
   </view>
+
+
+  <!-- <view class="tu1">
+  <image src="/images/tabbar/01.png" mode="aspectFit"> </image>
+  </view> -->
+  
+  <view class="hh2">
+    <view><image src="/images/tabbar/school.png" mode="aspectFit"></image></view>
+    <view><image src="/images/tabbar/school.png" mode="aspectFit"></image></view>
+    <view><image src="/images/tabbar/school.png" mode="aspectFit"></image></view>
+    <view><image src="/images/tabbar/school.png" mode="aspectFit"></image></view>
+    <view><image src="/images/tabbar/school.png" mode="aspectFit"></image></view>
+  </view>
+
+
 </scroll-view>
