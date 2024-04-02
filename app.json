@@ -1,8 +1,27 @@
 {
   "pages": [
-    "pages/index/index"
+    "pages/index/index",
+    "pages/list/list",
+    "pages/cate/cate",
+    "pages/shop/shop"
   ],
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "首页"
+    }, {
+      "pagePath": "pages/index/index",
+      "text": "日志"
+    }]
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  },
   "window": {
+    "navigationBarTitleText":"微信小程序",
+    "navigationBarBackgroundColor": "#e10602",
+    "enablePu11DownRefresh":"true",
     "navigationBarTextStyle": "black",
     "navigationStyle": "custom"
   },
