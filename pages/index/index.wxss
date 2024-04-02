@@ -35,4 +35,23 @@
 .box2_tu2 image{
   height: 30px;
   width: 30px;
+  margin: 0 8px;
+}
+
+.box2_zi{
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+}
+
+.box3{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.box3_son{
+  width: 100px;
+  border-radius: 15px;
+  background-color:red;
 }

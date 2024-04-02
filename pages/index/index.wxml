@@ -17,11 +17,18 @@
           <view class=""><image src="/images/tabbar/school.png" mode="aspectFit"></image></view>
           <view class=""><image src="/images/tabbar/school.png" mode="aspectFit"></image></view>
         </view>
+        <view class="box2_zi">
+          <view class="">学校概况</view>
+          <view class="">学校概况</view>
+          <view class="">学校概况</view>
+          <view class="">学校概况</view>
+          <view class="">学校概况</view>
+        </view>
       </view>
       
       <view class="box3">
-        <view class="">      </view>
-        <view class="">      </view>
+        <view class="box3_son"><view class=""><image src="/images/tabbar/man.png" mode="aspectFit"></view>
+        <view class="box3_son"><view class=""><image src="/images/tabbar/woman.png" mode="aspectFit"></view>
       </view>
 
       <view class="box4"><image src="" mode="aspectFit"></image>关于系统上线运行的时间</view>
